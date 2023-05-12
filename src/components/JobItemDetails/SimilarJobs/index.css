@@ -1,0 +1,8 @@
+.similar-job-card-container {
+  background-color: #202020;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 20px;
+  list-style-type: none;
+  width: 30%;
+}

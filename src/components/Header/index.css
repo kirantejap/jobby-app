@@ -1,0 +1,42 @@
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+
+.nav-header {
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #272727;
+}
+
+.nav-menu {
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.website-logo {
+  height: 40px;
+  cursor: pointer;
+}
+
+.logout-desktop-btn {
+  color: white;
+  font-family: Roboto;
+  font-weight: bold;
+  background-color: #4f46e5;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  height: 30px;
+}

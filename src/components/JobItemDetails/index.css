@@ -1,0 +1,55 @@
+.job-item-details-card {
+  background-color: #202020;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.item-details-bg-container {
+  background-color: black;
+  padding: 30px;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.desc-head-and-visit {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.visit {
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: bold;
+  color: #6366f1;
+}
+
+.link-icon {
+  color: #6366f1;
+  margin-left: 5px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.job-item-desc {
+  color: white;
+  font-family: Roboto;
+  font-size: 27px;
+}
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.life-at-company-container {
+  display: flex;
+}
+
+.ul-similar-jobs-container {
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
